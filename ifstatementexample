@@ -1,0 +1,12 @@
+if $USER = 'sysadmin'
+then 
+    echo 'hi sysadmin'
+    
+    fi
+# you can also write the code like this:
+
+if $user = [ 'sysadmin' ]
+then 
+echo 'hi sysadmin 
+fi 
+
